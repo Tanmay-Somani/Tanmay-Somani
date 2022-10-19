@@ -1,11 +1,17 @@
 ![Tanmay Somani](/your-header-image-name.png "Font banner ")
 
-- 👋 Hi, I’m @Tanmay-Somani
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning whatever i can get my hands on
-- 💞️ I’m looking to collaborate on ...
-- 📫 tanmaysomani2003@gmail.com
+- 👀 I’m interested in **learning about tech**
+- 🌱 I’m currently learning **assembly language and Swift**
+- 💞️ I’m looking to collaborate on **short but complex projects**
+- 📫 tanmaysomani2003@gmail.com 
 
+<h3 align="left">Connect with me:</h3>
+
+<p align="left">
+<a href="https://twitter.com/TSVA0" target=”_blank”><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="My Twitter handle" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19925269/tanmay-somani" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14315714" height="30" width="40" /></a>
+<a href="https://instagram.com/t_maytan._.t" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="My Insta Handle" height="30" width="40" /></a>
+<a href="https://medium.com/@tanmaysomani2003" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="My Medium Handle" height="30" width="40" /></a>
 
 <hr />
 <a href="https://github.com/Tanmay-Somani/github-readme-stats">
