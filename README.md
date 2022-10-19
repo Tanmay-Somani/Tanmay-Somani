@@ -1,4 +1,3 @@
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Tanmay Somani](/your-header-image-name.png "Font banner ")
 - 👋 Hi, I’m @Tanmay-Somani
 - 👀 I’m interested in ...
@@ -17,3 +16,22 @@ You can click the Preview link to take a look at your changes.
 <image align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmay-Somani&langs_count=8&theme=monokai&layout=compact" /></a>
 <hr />
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<hr />
+![View](https://komarev.com/ghpvc/?username=Tanmay-Somani)
