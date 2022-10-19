@@ -1,4 +1,4 @@
-![Tanmay Somani](./[abcd.jpg])
+![Tanmay Somani](./[abdc.png])
 - 👋 Hi, I’m @Tanmay-Somani
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning whatever i can get my hands on
