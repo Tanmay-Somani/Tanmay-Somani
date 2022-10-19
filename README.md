@@ -12,4 +12,4 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/Tanmay-Somani/github-readme-stats">
 <image align="center" src="https://github-readme-stats.vercel.app/api?username=Tanmay-Somani&show_icons=true&theme=monokai&hide=issues" /></a>
 <a href="https://github.com/Tanmay-Somani/github-readme-stats">
-<image align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmay-Somani&langs_count=8&theme=monokaid&layout=compact" /></a>
+<image align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmay-Somani&langs_count=8&theme=monokai&layout=compact" /></a>
