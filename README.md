@@ -5,9 +5,8 @@
 - 💞️ I’m looking to collaborate on **short but complex projects**
 - 📫 tanmaysomani2003@gmail.com 
 
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
+<h3 align="center">Connect with me on</h3>
+<p align="center">
 <a href="https://twitter.com/TSVA0" target=”_blank”><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="My Twitter handle" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19925269/tanmay-somani" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14315714" height="30" width="40" /></a>
 <a href="https://instagram.com/t_maytan._.t" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="My Insta Handle" height="30" width="40" /></a>
