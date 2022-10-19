@@ -1,4 +1,4 @@
-![Tanmay Somani](/your-header-image-name "Font banner ")
+![Tanmay Somani](/your-header-image-name.png "Font banner ")
 - 👋 Hi, I’m @Tanmay-Somani
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning whatever i can get my hands on
