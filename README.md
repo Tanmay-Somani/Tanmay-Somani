@@ -6,7 +6,7 @@
 - 📫 tanmaysomani2003@gmail.com 
 <br>
 <br>
-<h2 align="right">Connect with me on</h2>
+<h3 align="right">Connect with me on</h3>
 <p align="right">
 <a href="https://twitter.com/TSVA0" target=”_blank”><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="My Twitter handle" height="40" width="50" /></a>
 <a href="https://stackoverflow.com/users/19925269/tanmay-somani" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14315714" height="40" width="50" /></a>
