@@ -14,7 +14,7 @@
 <a href="https://medium.com/@tanmaysomani2003" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="My Medium Handle" height="40" width="50" /></a>
 <p align="left">  
 <a href="https://github.com/Tanmay-Somani/github-readme-stats">
-<image align="center" src="https://github-readme-stats.vercel.app/api?username=Tanmay-Somani&show_icons=true&theme=monokai&hide=issues" width =43%/></a></p>
+<image align="center" src="https://github-readme-stats.vercel.app/api?username=Tanmay-Somani&show_icons=true&theme=monokai&hide=issues" width =47%/></a></p>
  <p align="left">  
 <a href="https://github.com/Tanmay-Somani/github-readme-stats">
 <image align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmay-Somani&langs_count=8&theme=monokai&layout=compact" width=40%/></a></p>
