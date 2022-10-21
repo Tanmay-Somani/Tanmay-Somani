@@ -8,10 +8,10 @@
 <br>
 <h3 align="right">Connect with me on</h3>
 <p align="right">
-<a href="https://twitter.com/TSVA0" target=”_blank”><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="My Twitter handle" height="40" width="50" /></a>
-<a href="https://stackoverflow.com/users/19925269/tanmay-somani" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14315714" height="40" width="50" /></a>
-<a href="https://instagram.com/t_maytan._.t" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="My Insta Handle" height="40" width="50" /></a>
-<a href="https://medium.com/@tanmaysomani2003" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="My Medium Handle" height="40" width="50" /></a>
+<a href="https://twitter.com/TSVA0" target=”_blank”><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="My Twitter handle" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19925269/tanmay-somani" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14315714" height="30" width="40" /></a>
+<a href="https://instagram.com/t_maytan._.t" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="My Insta Handle" height="30" width="40" /></a>
+<a href="https://medium.com/@tanmaysomani2003" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="My Medium Handle" height="30" width="40" /></a>
 <p align="left">  
 <a href="https://github.com/Tanmay-Somani/github-readme-stats">
 <image align="center" src="https://github-readme-stats.vercel.app/api?username=Tanmay-Somani&show_icons=true&theme=monokai&hide=issues" width =47%/></a></p>
