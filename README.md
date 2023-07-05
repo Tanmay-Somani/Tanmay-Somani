@@ -11,7 +11,7 @@
 <a href="https://twitter.com/tsva0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tsva0" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tcodes" height="30" width="40" /></a>
 <a href="https://instagram.com/tanmay_threads.code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanmay_threads.code" height="30" width="40" /></a>
-<a href="https://medium.com/@tanmay_somani2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tanmay_somani" height="30" width="40" /></a>
+<a href="https://medium.com/@tanmaysomani2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tanmay_somani" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
