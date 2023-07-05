@@ -22,7 +22,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanmay-somani&show_icons=true&locale=en&theme=monokai" alt="tanmay-somani" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanmay-somani&theme=monokai" alt="tanmay-somani" /></p>
-
+![Snake animation](https://github.com/Tanmay-Somani/Tanmay-Somani/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 Tanmay-Somani/Tanmay-Somani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
