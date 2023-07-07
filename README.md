@@ -4,7 +4,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tanmay-somani&label=Profile%20views&color=800000&style=flat" alt="tanmay-somani" /> </p>
 
--📫 How to reach me [tanmaysomani2003@gmail.com](mailto:tanmaysomani2003@gmail.com)
+- 📫 How to reach me [tanmaysomani2003@gmail.com](mailto:tanmaysomani2003@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
