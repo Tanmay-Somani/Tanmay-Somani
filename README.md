@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" href="links-change.css">
+<link rel="stylesheet" type="text/css" href="link-change.css">
 
 ![Tanmay Somani](/your-header-image-name.png "Font banner ")
 <h1 align="center">Hi 👋, I'm Tanmay Somani</h1>
