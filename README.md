@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Tanmay Somani</h1>
 <h3 align="center">An all consuming learner.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmay-somani&label=Profile%20views&color=0e75b6&style=flat" alt="tanmay-somani" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=tanmay-somani&label=Profile%20views&color=800000&style=flat" alt="tanmay-somani" /> </p>
+
 
 - 📫 How to reach me **tanmaysomani2003@gmail.com**
 
