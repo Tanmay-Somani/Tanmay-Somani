@@ -20,7 +20,7 @@
 <hr>
 <h2>
   <a href="https://tanmay-somani.github.io">
-    <img src="https://tanmay-somani.github.io/your-image.jpg" alt="My Website">
+    My Website
   </a>
 </h2>
 
