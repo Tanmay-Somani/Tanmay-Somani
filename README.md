@@ -24,7 +24,6 @@
   </a>
 </h2>
 
-
 <hr>
 <details>
   <summary>📊 GitHub Stats</summary>
