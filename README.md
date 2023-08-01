@@ -1,9 +1,7 @@
 ![Tanmay Somani](/your-header-image-name.png "Font banner ")
 <h1 align="center">Hello 👋, I'm Tanmay Somani</h1>
 <h3 align="center">An all consuming learner.</h3>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tanmay-somani&label=Profile%20views&color=800000&style=flat" alt="tanmay-somani" /> </p>
-
 - 📫 How to reach me [tanmaysomani2003@gmail.com](mailto:tanmaysomani2003@gmail.com)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -12,7 +10,6 @@
 <a href="https://instagram.com/tanmay_threads.code" target="blank"><img align="center" src="images/icons8-twitter.gif" alt="tanmay_threads.code" height="40" width="40" /></a>
 <a href="https://medium.com/@tanmaysomani2003" target="blank"><img align="center" src="images/icons8-medium.gif" alt="@tanmay_somani" height="40" width="40" /></a>
 </p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="images/c-solid.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="images/css3-alt.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="images/docker.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="images/cloud-solid.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="images/html5.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="images/database-solid.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="images/python.svg" alt="python" width="40" height="40"/> </a> 
 <hr>
