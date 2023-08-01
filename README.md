@@ -44,7 +44,7 @@
 
 <!-- Other sections of my README.md -->
 
-  <summary>🐍 My contributions</summary>
+🐍 My contributions
 
   <p align="center">
     <img src="https://github.com/Tanmay-Somani/Tanmay-Somani/blob/output/github-contribution-grid-snake.svg" alt="snake-animation"/>
