@@ -44,14 +44,11 @@
 
 <!-- Other sections of my README.md -->
 
-<details>
   <summary>🐍 My contributions</summary>
 
   <p align="center">
     <img src="https://github.com/Tanmay-Somani/Tanmay-Somani/blob/output/github-contribution-grid-snake.svg" alt="snake-animation"/>
   </p>
-</details>
-
 <!--
 Tanmay-Somani/Tanmay-Somani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
