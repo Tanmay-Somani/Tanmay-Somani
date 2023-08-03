@@ -11,7 +11,6 @@
   <a href="https://instagram.com/tanmay_threads.code" target="blank"><img align="center" src="images/icons8-instagram (1).gif" alt="tanmay_threads.code" height="40" width="40" /></a>
   <a href="https://medium.com/@tanmaysomani2003" target="blank"><img align="center" src="images/icons8-medium.gif" alt="@tanmay_somani" height="40" width="40" /></a>
 </p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="images/c-solid.svg" alt="cplusplus" width="40" height="40"/> </a>
