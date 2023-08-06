@@ -27,7 +27,7 @@
 <h2 align="center"><a href="https://tanmay-somani.github.io">My Website</a></h2>
 <hr>
 
-<details>
+<details align="center">
   <summary>📊 GitHub Stats</summary>
 
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanmay-somani&show_icons=true&locale=en&theme=monokai)
