@@ -33,13 +33,13 @@
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanmay-somani&show_icons=true&locale=en&theme=monokai)
 </details>
 
-<details>
+<details align="center">
   <summary>💻 Most Used Languages</summary>
 
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanmay-somani&layout=compact&theme=monokai)
 </details>
 
-<details>
+<details align="center">
   <summary>📈 Total Contributions</summary>
 
   ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=tanmay-somani&theme=monokai)
