@@ -5,15 +5,15 @@
 <p align="center"></p>
 <p align="center">📫 How to reach me: <a href="mailto:tanmaysomani2003@gmail.com">tanmaysomani2003@gmail.com</a></p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
   <a href="https://twitter.com/tsva0" target="blank"><img align="center" src="images/icons8-twitter.gif" alt="tsva0" height="40" width="40" /></a>
   <a href="https://linkedin.com/in/tcodes" target="blank"><img align="center" src="images/icons8-linkedin.svg" alt="tcodes" height="40" width="40" /></a>
   <a href="https://instagram.com/tanmay_threads.code" target="blank"><img align="center" src="images/icons8-instagram (1).gif" alt="tanmay_threads.code" height="40" width="40" /></a>
   <a href="https://medium.com/@tanmaysomani2003" target="blank"><img align="center" src="images/icons8-medium.gif" alt="@tanmay_somani" height="40" width="40" /></a>
 </p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="images/c-solid.svg" alt="cplusplus" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="images/css3-alt.svg" alt="css3" width="40" height="40"/> </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="images/docker.svg" alt="docker" width="40" height="40"/> </a>
