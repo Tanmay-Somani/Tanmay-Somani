@@ -4,7 +4,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tanmay-somani&label=Profile%20views&color=800000&style=flat" alt="tanmay-somani" /> </p>
 <p align="center"></p>
 <p align="center">📫 How to reach me: <a href="mailto:tanmaysomani2003@gmail.com">tanmaysomani2003@gmail.com</a></p>
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://twitter.com/tsva0" target="blank"><img align="center" src="images/icons8-twitter.gif" alt="tsva0" height="40" width="40" /></a>
