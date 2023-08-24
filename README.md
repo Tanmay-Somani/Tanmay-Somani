@@ -21,7 +21,6 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="images/database-solid.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="images/python.svg" alt="python" width="40" height="40"/> </a>
 </p>
-
 <hr>
 <h2 align="center"><a href="https://tanmay-somani.github.io">My Website</a></h2>
 <hr>
