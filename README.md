@@ -24,7 +24,6 @@
 <hr>
 <h2 align="center"><a href="https://tanmay-somani.github.io">My Website</a></h2>
 <hr>
-
 <details align="center">
   <summary>📊 GitHub Stats</summary>
 
