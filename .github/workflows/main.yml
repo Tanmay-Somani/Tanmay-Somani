@@ -21,8 +21,6 @@ jobs:
         uses: Platane/snk@v2
         with:
           github_user_name: Tanmay-Somani
-          color_snake: "#800000"
-          color_dots: "#ffff99,#ffcc66,#ff9933,#ff6600,#dc143c"
 
       - name: Push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
