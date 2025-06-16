@@ -25,6 +25,9 @@
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="images/html5.svg" alt="html5" width="40" height="40" /></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="images/database-solid.svg" alt="mysql" width="40" height="40" /></a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="images/python.svg" alt="python" width="40" height="40" /></a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="images/pytorch.svg" alt="pytorch" width="40" height="40" /></a>
+<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="images/tensorflow.svg" alt="tensorflow" width="40" height="40" /></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="images/git-alt.svg" alt="git" width="40" height="40" /></a>
 </p>
 
 <hr>
