@@ -66,11 +66,6 @@ I enjoy taking ideas from **research → experimentation → working systems**.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanmay-somani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="Tanmay's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmay-somani&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanmay-somani&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
